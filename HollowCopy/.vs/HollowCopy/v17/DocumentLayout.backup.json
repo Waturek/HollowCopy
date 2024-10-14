@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\HollowCopy\\HollowCopy\\",
+  "WorkspaceRootPath": "C:\\Users\\ushuz\\HollowCopy\\HollowCopy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CE9C39E-A14A-D61A-CB58-85700E09676D}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\hollowcopy\\hollowcopy\\assets\\scenes\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE9C39E-A14A-D61A-CB58-85700E09676D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CE9C39E-A14A-D61A-CB58-85700E09676D}|Assembly-CSharp.csproj|c:\\users\\ushuz\\hollowcopy\\hollowcopy\\assets\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE9C39E-A14A-D61A-CB58-85700E09676D}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Camera.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\HollowCopy\\HollowCopy\\Assets\\Scenes\\Scripts\\Camera.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Camera.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\HollowCopy\\HollowCopy\\Assets\\Scenes\\Scripts\\Camera.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Camera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ushuz\\HollowCopy\\HollowCopy\\Assets\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\ushuz\\HollowCopy\\HollowCopy\\Assets\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Player\\Player.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T14:52:40.456Z",
+              "WhenOpened": "2024-10-14T14:42:07.577Z",
               "EditorCaption": ""
             }
           ]
