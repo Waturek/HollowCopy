@@ -26,6 +26,7 @@ sysinfo.txt
 *.user
 *.userprefs
 *.pidb
+*.log
 .DS_Store
 
 ###
@@ -39,3 +40,4 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 Thumbs.db
+HollowCopy/Logs/shadercompiler-UnityShaderCompiler.exe0.log
