@@ -18,12 +18,12 @@ public class Player : MonoBehaviour
 
         if (Input.GetKey(KeyCode.A))
         {
-            movePlayer.y = -1f;
+            movePlayer.x = -0.01f;
         }
 
         if (Input.GetKey(KeyCode.D))
         {
-            movePlayer.x = 1f;
+            movePlayer.x = 0.01f;
         }
 
         rb.MovePosition(movePlayer + rb.position);

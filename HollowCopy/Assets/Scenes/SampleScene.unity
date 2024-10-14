@@ -199,6 +199,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &108233262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108233257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0950fd4d9f23e0488cc1206502f77bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerSpeed: 1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -652,6 +665,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1731024750833602421, guid: 8930f8ca7a6d2f64ca8f3c0daa2a565d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 108233258}
+    - targetCorrespondingSourceObject: {fileID: 1731024750833602421, guid: 8930f8ca7a6d2f64ca8f3c0daa2a565d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 108233262}
   m_SourcePrefab: {fileID: 100100000, guid: 8930f8ca7a6d2f64ca8f3c0daa2a565d, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
