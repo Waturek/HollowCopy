@@ -16,26 +16,16 @@ public class Player : MonoBehaviour
     {
         Vector2 movePlayer = new Vector2(0, 0);
 
-        if (Input.GetKey(KeyCode.W))
-        {
-            movePlayer.y += 1f;
-        }
-
         if (Input.GetKey(KeyCode.A))
         {
-            movePlayer.y -= 1f;
-        }
-
-        if (Input.GetKey(KeyCode.S))
-        {
-            movePlayer.x += 1f;
+            movePlayer.y = -1f;
         }
 
         if (Input.GetKey(KeyCode.D))
         {
-            movePlayer.x -= 1f;
+            movePlayer.x = 1f;
         }
 
-        
+        rb.MovePosition(movePlayer + rb.position);
     }
 }
